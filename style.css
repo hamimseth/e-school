@@ -1,0 +1,74 @@
+
+.navbar-brand img {
+    vertical-align: middle;
+    border-style: none;
+    height: 50px;
+    width: 160px;
+}
+.container {
+    margin-bottom: 80px;
+}
+.bg-color a{
+    color: gray;
+}
+.bg-color a:hover{
+    color: black;
+    font-weight: 700px;
+}
+.card img{
+    height: 80px;
+    width: 60px;
+    
+}
+.border-color{
+    border: none;
+    background: #F8FFFB;
+}
+.border-shadow{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: white;
+}
+.paragraph-color{
+    color: rgb(107, 106, 106);
+}
+.navbar .fas{
+    color:  rgb(18, 190, 55);
+}
+h5{
+    color: #413960;
+    font-weight: 600;
+}
+.online-courses{
+    font-size: 30px;
+}
+.use-margin{
+    margin-top: 70px;
+}
+.image-height img{
+    height: 180px;
+}
+.btn-success{
+    border-radius: 30px;
+    padding: 0px 15px;
+}  
+.bg-color{
+    background-color: #F0FFF0;
+}
+.paragraph-center{
+    margin-top: 70px;
+    margin-left: 300px;
+}
+.image-position img{
+    height: 170px;
+    width: 150px;
+   
+}
+.box-posision{
+    border: 0px;    
+}
+.bg-footer{
+    background: #282531;
+    overflow-x: hidden;
+    padding: 8vmin 8vmin;   
+}
